@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="container" >
         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-          <img src="src/assets/logo.png" alt="Website Logo" className="logo" />
+          <img src="public/logo.png" alt="Website Logo" className="logo" />
         </div>
         <div style={{textAlign: 'center'}}>
           <h1>Welcome to DIV1DE CTF!</h1>
